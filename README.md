@@ -21,4 +21,4 @@ A place to see and track my habits and development from month to month. Visual r
 
 - Github Profile Page Close (still working)
 - In Progress: Mastering the Interview: Data Structures & Algorithms (Udemy)
-- 🏃 Miles Ran: 9.73
+- 🏃 Miles Ran: 14.90
