@@ -22,3 +22,10 @@ A place to see and track my habits and development from month to month. Visual r
 - Github Profile Page Close (still working)
 - In Progress: Mastering the Interview: Data Structures & Algorithms (Udemy)
 - 🏃 Miles Ran: 14.90
+
+### Week October 19 - October 23
+- 🎉 Github Profile Page Complete
+- In Progress: Mastering the Interview: Data Structures & Algorithms (Udemy)
+- Building ConnectHER development milestones/goals and creating documentation
+- Interviews/Assessments/Interview Prep!
+- 🏃 Miles Ran: 7.00
