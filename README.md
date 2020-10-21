@@ -26,6 +26,6 @@ A place to see and track my habits and development from month to month. Visual r
 ### Week October 19 - October 23
 - 🎉 Github Profile Page Complete
 - In Progress: Mastering the Interview: Data Structures & Algorithms (Udemy)
-- Building ConnectHER development milestones/goals and creating documentation
+- Building ConnectHER development milestones/goals and creating documentation (Notion)
 - Interviews/Assessments/Interview Prep!
 - 🏃 Miles Ran: 7.00
