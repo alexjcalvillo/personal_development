@@ -29,3 +29,7 @@ A place to see and track my habits and development from month to month. Visual r
 - Building ConnectHER development milestones/goals and creating documentation (Notion)
 - Interviews/Assessments/Interview Prep!
 - 🏃 Miles Ran: 7.00
+
+### Week October 26 - 30
+- 🎉 Complete Twitter Hackerrank Challenge for application
+- TypeScript Refresher - Company server project
